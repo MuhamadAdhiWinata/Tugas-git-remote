@@ -1,0 +1,15 @@
+Catatan Belanja
+
+Tanggal: 30 April 2024
+
+Barang yang Dibeli:
+
+Beras: 5 kg - Rp 50.000
+Sayuran:
+    Wortel: 1 kg - Rp 10.000
+    Bayam: 500 gram - Rp 5.000
+Daging Ayam: 1 kg - Rp 40.000
+Telur: 1 dus (10 butir) - Rp 15.000
+Minyak Goreng: 2 liter - Rp 25.000
+Gula: 1 kg - Rp 15.000
+Kopi: 1 bungkus - Rp 20.000
